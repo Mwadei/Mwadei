@@ -53,6 +53,7 @@ Welcome to my GitHub profile. I'm passionate about building scalable and profess
 - Firebase
 - Git & GitHub
 - SQL
+- SQL Server
 - Visual Studio & Visual Studio Code
 
 ---
