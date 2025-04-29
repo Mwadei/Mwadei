@@ -84,7 +84,7 @@ I'm always open to collaboration and learning new technologies.
 
 <p align="center">
   <a href="https://github.com/Mwadei">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow%20Me&style=social" alt="GitHub Follow Badge"/>
+    <img src="https://img.shields.io/github/followers/Mwadei?label=Follow%20Me&style=social" alt="GitHub Follow Badge"/>
   </a>
 </p>
 
