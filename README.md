@@ -6,8 +6,6 @@ Welcome to my GitHub profile. I'm passionate about building scalable and profess
 
 ## 🚀 Technologies & Skills
 
-## 🚀 Technologies & Skills
-
 | Technology | Level |
 |:-----------|:------|
 | <img src="https://img.icons8.com/color/48/flutter.png" width="24"/> Flutter | Proficient 🚀 |
