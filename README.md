@@ -6,17 +6,20 @@ Welcome to my GitHub profile. I'm passionate about building scalable and profess
 
 ## 🚀 Technologies & Skills
 
-| Technology     | Level                     |
-| -------------- | -------------------------- |
-| Flutter        | Proficient 🚀              |
-| Dart           | Proficient 🚀              |
-| C#             | Strong Intermediate 🎯     |
-| ASP.NET        | Strong Intermediate 🎯     |
-| .NET Framework | Strong Intermediate 🎯     |
-| REST APIs      | Proficient 🚀              |
-| Firebase       | Intermediate ⭐             |
-| Git & GitHub   | Proficient 🚀              |
-| SQL            | Proficient 🚀              |
+## 🚀 Technologies & Skills
+
+| Technology | Level |
+|:-----------|:------|
+| <img src="https://img.icons8.com/color/48/flutter.png" width="24"/> Flutter | Proficient 🚀 |
+| <img src="https://img.icons8.com/color/48/dart.png" width="24"/> Dart | Proficient 🚀 |
+| <img src="https://img.icons8.com/color/48/c-sharp-logo.png" width="24"/> C# | Strong Intermediate 🎯 |
+| <img src="https://img.icons8.com/color/48/asp.png" width="24"/> ASP.NET | Strong Intermediate 🎯 |
+| <img src="https://img.icons8.com/ios-filled/50/000000/net-framework.png" width="24"/> .NET Framework | Strong Intermediate 🎯 |
+| <img src="https://img.icons8.com/ios-filled/50/api-settings.png" width="24"/> REST APIs | Proficient 🚀 |
+| <img src="https://img.icons8.com/color/48/firebase.png" width="24"/> Firebase | Intermediate ⭐ |
+| <img src="https://img.icons8.com/ios-glyphs/30/github.png" width="24"/> Git & GitHub | Proficient 🚀 |
+| <img src="https://img.icons8.com/ios-filled/50/sql.png" width="24"/> SQL | Proficient 🚀 |
+| <img src="https://img.icons8.com/color/48/azure-1.png" width="24"/> Microsoft Azure | Learning ⭐ |
 
 ---
 
