@@ -21,6 +21,24 @@ Welcome to my GitHub profile. I'm passionate about building scalable and profess
 
 ---
 
+## 🏅 Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dart-Expert-blue?logo=dart&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%23-Strong%20Intermediate-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ASP.NET-Strong%20Intermediate-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/.NET%20Framework-Strong%20Intermediate-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-Proficient-green?logo=api&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-Intermediate-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git%20&%20GitHub-Proficient-orange?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-Proficient-003B57?logo=postgresql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure-Learning-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
+</p>
+
+
+---
+
 ## 🛠️ Current Projects
 
 - **Cooling Sol App (Flutter)** — A modern mobile app for managing cooling services with a clean architecture and multilingual support.
