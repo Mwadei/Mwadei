@@ -17,7 +17,9 @@ Welcome to my GitHub profile. I'm passionate about building scalable and profess
 | <img src="https://img.icons8.com/color/48/firebase.png" width="24"/> Firebase | Intermediate ⭐ |
 | <img src="https://img.icons8.com/ios-glyphs/30/github.png" width="24"/> Git & GitHub | Proficient 🚀 |
 | <img src="https://img.icons8.com/ios-filled/50/sql.png" width="24"/> SQL | Proficient 🚀 |
-| <img src="https://img.icons8.com/color/48/azure-1.png" width="24"/> Microsoft Azure | Learning ⭐ |
+| <img src="https://img.icons8.com/color/48/azure-1.png" width="24"/> Microsoft Azure | Learning  📘 |
+| <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png" width="24"/> Laravel PHP | Intermediate ⭐ |
+
 
 ---
 
@@ -34,6 +36,7 @@ Welcome to my GitHub profile. I'm passionate about building scalable and profess
   <img src="https://img.shields.io/badge/Git%20&%20GitHub-Proficient-orange?logo=git&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-Proficient-003B57?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Azure-Learning-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Laravel%20PHP-Intermediate-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"/>
 </p>
 
 
