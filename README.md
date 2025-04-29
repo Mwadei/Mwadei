@@ -82,6 +82,11 @@ Welcome to my GitHub profile. I'm passionate about building scalable and profess
 Feel free to explore my repositories and connect!  
 I'm always open to collaboration and learning new technologies.
 
+<p align="center">
+  <a href="https://github.com/Mwadei">
+    <img src="https://img.shields.io/github/followers/your-username?label=Follow%20Me&style=social" alt="GitHub Follow Badge"/>
+  </a>
+</p>
 
 <!--
 **Mwadei/Mwadei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
