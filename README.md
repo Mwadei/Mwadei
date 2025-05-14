@@ -95,6 +95,10 @@ I'm passionate about building **scalable**, **professional** applications, parti
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mwadei.Mwadei" alt="visitor badge"/>
 </p>
 
+<p align="center">
+  <img src="https://count.getloli.com/get/@Mwadei.profile?theme=rule34" alt="Visitor Count"/>
+</p>
+
 ---
 ## 🌟 Let's Connect!
 
