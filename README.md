@@ -91,6 +91,11 @@ I'm passionate about building **scalable**, **professional** applications, parti
 
 ---
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mwadei.Mwadei" alt="visitor badge"/>
+</p>
+
+---
 ## 🌟 Let's Connect!
 
 Feel free to explore my repositories and connect!  
