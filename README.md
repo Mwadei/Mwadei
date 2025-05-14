@@ -99,6 +99,8 @@ I'm passionate about building **scalable**, **professional** applications, parti
   <img src="https://count.getloli.com/get/@Mwadei.profile?theme=rule34" alt="Visitor Count"/>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Mwadei&color=blue&style=flat)
+
 ---
 ## 🌟 Let's Connect!
 
