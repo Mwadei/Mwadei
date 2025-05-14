@@ -122,13 +122,15 @@ I'm always eager for new opportunities and challenges where I can contribute and
   <a href="https://github.com/Mwadei">
     <img src="https://img.shields.io/github/followers/Mwadei?label=Follow%20Me&style=social" alt="GitHub Follow Badge"/>
   </a>
-  <!-- You can add LinkedIn or email badges here if you like -->
-  <!-- Example:
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/mohammed-wadei-ab91b1294">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
-  -->
+  <a href="mailto:mohammedwadei@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
 </p>
+
+You can also reach me directly at: **mohammedwadei@gmail.com**
 
 ---
 
